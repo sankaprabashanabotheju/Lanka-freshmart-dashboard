@@ -52,7 +52,7 @@ Supermarkets generate large amounts of transaction data every day, but raw sprea
 - Standardised column names and category values
 - Created calculated columns/measures for Net Sales, Total Cost and Profit
 
-## 💡 Key Insights
+## Key Insights
 
 **Dataset:** 9,350 line items across 4,236 orders (Jan 2024 – Dec 2025), 8 branches, 6 provinces, 8 product categories.
 
