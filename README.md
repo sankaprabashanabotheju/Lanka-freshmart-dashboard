@@ -94,7 +94,7 @@ Supermarkets generate large amounts of transaction data every day, but raw sprea
 - Encourage Bronze customers to upgrade, and reassess Gold-tier benefits.
 
 
-## ▶️ How to Open the Project
+## How to Open the Project
 
 1. Download or clone this repository
 2. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows)
